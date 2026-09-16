@@ -2,7 +2,11 @@
 
 An interactive data structures and algorithms visualizer that runs entirely in a single HTML file. Every animation is driven by a real execution trace, not a scripted playback, so what you see on screen is exactly what the code did.
 
+**Live Demo:** [https://dsa-visualize.pages.dev](https://dsa-visualize.pages.dev)
+
 ## Overview
+
+![Algorithm Laboratory Screenshot](Screenshot.png)
 
 Algorithm Laboratory is built for people who want to understand how an algorithm behaves, not just watch coloured bars move. The visualizer instruments a genuine JavaScript implementation of each algorithm, records every comparison, swap, write and function call as a discrete step, and then lets you move through that recording in either direction.
 
